@@ -175,5 +175,6 @@ Tanmoy
 
 ## 📝 License
 
-This project is open-source and created for learning, portfolio, and demonstration purposes.
+This project is licensed under MIT License.
+
 
